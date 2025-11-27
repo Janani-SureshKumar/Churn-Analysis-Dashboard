@@ -66,5 +66,5 @@ Both tables are cleaned using Power Query and connected via **Customer_ID** for 
 
 ## 📞 Contact  
 For questions, collaboration, or feedback, feel free to connect:  
-🔗 **[LinkedIn – Janani Suresh](https://www.linkedin.com/in/janani-suresh/)**  
+🔗  [LinkedIn](https://linkedin.com/in/janani-sk)
 
