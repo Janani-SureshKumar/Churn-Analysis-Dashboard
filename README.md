@@ -1,9 +1,5 @@
 # 📉 Customer Churn Analysis Dashboard – Power BI Project  
 
-This is a real-time Power BI project I built by following the YouTube tutorial **“Customer Churn Analysis | Power BI + SQL + Machine Learning | Start to End Project”**.  
-It helped me understand how to extract data from SQL Server, clean & model it, and build an interactive churn dashboard to identify customers most likely to leave.
-
----
 
 ## 🔍 Project Overview  
 The dashboard provides a complete view of **customer behavior, churn trends, service usage patterns, and demographic insights**.  
